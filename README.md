@@ -19,7 +19,7 @@ Bio Bert Summarizer Test_updated.ipynb = Code which specifies BIOBERT embedding 
 
 This code is sligtly time-consuming to excecute, The code should be run on the local system and paths to the dataset (Data.zip) must be specified based on location  of dataset in the working directory of the local system. All the required packages must installed using the pip command. I have also attached a .zip folder on canvas having all the weight files generated for biobert_sum.
 
-# For ease of use all the .py codes mentioned above if opened through this git repo already have results for each and every step of excecution. These results can be analysed to understand the code and to draw appropriate insights.
+****For ease of use all the .py codes mentioned above if opened through this git repo already have results for each and every step of excecution. These results can be analysed to understand the code and to draw appropriate insights.
 
 # RESULTS
 
