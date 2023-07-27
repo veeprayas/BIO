@@ -1,4 +1,4 @@
-# BIOINFORMATICS PROJECT
+# DATA SCIENCE PROJECT
 
 The main objective is to look into Text Summarization techniques and its application with-in medical domain. The PubMed database contains more than 34 million citations
 and abstracts of biomedical literature, presenting its own set of challenges in cataloguing, distribution, standardising, and qualifying of medical text data. The need for research on biomedical text summarization is twofold. (1) With the increasing volume and variety of data (Medical texts are usually accompanied by
